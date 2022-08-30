@@ -1,32 +1,62 @@
 [
   {
+    "full_name": "Jingkang50/OpenPSG",
+    "stargazers_count": 128,
+    "open_issues_count": 2,
+    "forks_count": 17
+  },
+  {
+    "full_name": "salesforce/ETSformer",
+    "stargazers_count": 54,
+    "open_issues_count": 0,
+    "forks_count": 10
+  },
+  {
+    "full_name": "lucidrains/ETSformer-pytorch",
+    "stargazers_count": 110,
+    "open_issues_count": 2,
+    "forks_count": 16
+  },
+  {
+    "full_name": "bregman-arie/devops-exercises",
+    "stargazers_count": 29052,
+    "open_issues_count": 15,
+    "forks_count": 6198
+  },
+  {
+    "full_name": "BexTuychiev/tricking-data-science",
+    "stargazers_count": 57,
+    "open_issues_count": 1,
+    "forks_count": 6
+  },
+  {
     "full_name": "python-versioneer/python-versioneer",
-    "stargazers_count": 954,
+    "stargazers_count": 955,
     "open_issues_count": 51,
     "forks_count": 152
   },
   {
     "full_name": "lucidrains/Adan-pytorch",
-    "stargazers_count": 100,
-    "open_issues_count": 0,
+    "stargazers_count": 132,
+    "open_issues_count": 1,
     "forks_count": 3
   },
   {
     "full_name": "traveller59/spconv",
     "stargazers_count": 1062,
-    "open_issues_count": 21,
-    "forks_count": 284
+    "open_issues_count": 20,
+    "forks_count": 286
   },
   {
     "full_name": "vista-simulator/vista",
-    "stargazers_count": 169,
-    "open_issues_count": 10,
-    "forks_count": 26
+    "stargazers_count": 172,
+    "open_issues_count": 11,
+    "forks_count": 27
   },
   {
     "full_name": "scrapinghub/dateparser",
-    "stargazers_count": 2099,
-    "open_issues_count": 314,
+    "stargazers_count": 2103,
+    "open_issues_count": 313,
     "forks_count": 417
   },
   {
@@ -37,15 +67,15 @@
   },
   {
     "full_name": "skyplane-project/skyplane",
-    "stargazers_count": 90,
-    "open_issues_count": 12,
+    "stargazers_count": 95,
+    "open_issues_count": 13,
     "forks_count": 2
   },
   {
     "full_name": "wagoodman/dive",
-    "stargazers_count": 33422,
+    "stargazers_count": 33467,
     "open_issues_count": 136,
-    "forks_count": 1332
+    "forks_count": 1333
   },
   {
     "full_name": "agurvich/Firefly",
@@ -55,20 +85,20 @@
   },
   {
     "full_name": "karanpratapsingh/system-design",
-    "stargazers_count": 8233,
+    "stargazers_count": 9105,
     "open_issues_count": 2,
-    "forks_count": 519
+    "forks_count": 567
   },
   {
     "full_name": "CQCL/pytket",
-    "stargazers_count": 275,
+    "stargazers_count": 276,
     "open_issues_count": 3,
     "forks_count": 75
   },
   {
     "full_name": "rapidsai/cugraph",
-    "stargazers_count": 1075,
-    "open_issues_count": 213,
+    "stargazers_count": 1078,
+    "open_issues_count": 216,
     "forks_count": 214
   },
   {
@@ -79,21 +109,21 @@
   },
   {
     "full_name": "neuml/txtai",
-    "stargazers_count": 2473,
+    "stargazers_count": 2485,
     "open_issues_count": 13,
-    "forks_count": 234
+    "forks_count": 235
   },
   {
     "full_name": "apache/spark",
-    "stargazers_count": 33724,
-    "open_issues_count": 281,
-    "forks_count": 26014
+    "stargazers_count": 33751,
+    "open_issues_count": 282,
+    "forks_count": 26031
   },
   {
     "full_name": "dgtlmoon/changedetection.io",
-    "stargazers_count": 5423,
-    "open_issues_count": 86,
-    "forks_count": 294
+    "stargazers_count": 5460,
+    "open_issues_count": 90,
+    "forks_count": 296
   },
   {
     "full_name": "SoftTissueBiomechanicsLab/AR_Pipeline",
@@ -109,27 +139,27 @@
   },
   {
     "full_name": "jupyter-widgets/ipywidgets",
-    "stargazers_count": 2561,
-    "open_issues_count": 609,
-    "forks_count": 856
+    "stargazers_count": 2564,
+    "open_issues_count": 618,
+    "forks_count": 857
   },
   {
     "full_name": "martinRenou/ipycanvas",
-    "stargazers_count": 626,
-    "open_issues_count": 42,
-    "forks_count": 53
+    "stargazers_count": 628,
+    "open_issues_count": 43,
+    "forks_count": 54
   },
   {
     "full_name": "killiansheriff/LovelyPlots",
-    "stargazers_count": 513,
+    "stargazers_count": 516,
     "open_issues_count": 1,
-    "forks_count": 20
+    "forks_count": 21
   },
   {
     "full_name": "s3prl/s3prl",
-    "stargazers_count": 1416,
+    "stargazers_count": 1419,
     "open_issues_count": 33,
-    "forks_count": 324
+    "forks_count": 325
   },
   {
     "full_name": "dataprofessor/st-demo-image-markdown",
@@ -139,44 +169,14 @@
   },
   {
     "full_name": "null-jones/streamlit-plotly-events",
-    "stargazers_count": 88,
+    "stargazers_count": 89,
     "open_issues_count": 3,
     "forks_count": 18
   },
   {
     "full_name": "ayaka14732/tpu-starter",
-    "stargazers_count": 152,
+    "stargazers_count": 153,
     "open_issues_count": 0,
     "forks_count": 5
-  },
-  {
-    "full_name": "basetenlabs/truss",
-    "stargazers_count": 441,
-    "open_issues_count": 5,
-    "forks_count": 15
-  },
-  {
-    "full_name": "koaning/clumper",
-    "stargazers_count": 120,
-    "open_issues_count": 10,
-    "forks_count": 13
-  },
-  {
-    "full_name": "GoogleCloudPlatform/terraformer",
-    "stargazers_count": 8428,
-    "open_issues_count": 75,
-    "forks_count": 1158
-  },
-  {
-    "full_name": "mljar/bloxs",
-    "stargazers_count": 160,
-    "open_issues_count": 0,
-    "forks_count": 7
-  },
-  {
-    "full_name": "conda-forge/ipyvizzu-story-feedstock",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 4
   }
 ]
